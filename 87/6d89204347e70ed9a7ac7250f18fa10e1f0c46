@@ -1,0 +1,23 @@
+electron/update-support.js
+  s_40746c2626f66b::t_0888ea40b2fc5e 1-20
+test/update-support.test.js
+  s_40746c2626f66b::t_756e14d608db7d 1-27
+electron/app.js
+  s_40746c2626f66b::t_0888ea40b2fc5e 37,41-42,410-411,485-486
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "876d89204347e70ed9a7ac7250f18fa10e1f0c46",
+  "prompts": {},
+  "sessions": {
+    "s_40746c2626f66b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ff9d232d-d4a2-4dac-868c-e1f3c9ebc7bd",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Kenny Crous <kennycrous@outlook.com>"
+    }
+  }
+}

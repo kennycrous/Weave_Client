@@ -1,0 +1,22 @@
+package.json
+  s_40746c2626f66b::t_2249352f11dd85 22
+electron-builder.yml
+  s_40746c2626f66b::t_2249352f11dd85 25-27,35-42,59-69
+  s_40746c2626f66b::t_de01c5c8e04f28 70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dc9fb29e4257f805be2bc14d3b781d69325d6853",
+  "prompts": {},
+  "sessions": {
+    "s_40746c2626f66b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ff9d232d-d4a2-4dac-868c-e1f3c9ebc7bd",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Kenny Crous <kennycrous@outlook.com>"
+    }
+  }
+}
